@@ -1,0 +1,25 @@
+{
+  "name": "ExperimentWebDriverJS",
+  "version": "1.0.0",
+  "description": "## <b>EXPERIMENTING AND PRACTICE PLATFORM: http://the-internet.herokuapp.com</b> ## <b>PROJECT PLATFORM: N/A</b>",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^87.0.0",
+    "geckodriver": "^1.21.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woloszyna/ExperimentWebDriverJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woloszyna/ExperimentWebDriverJS/issues"
+  },
+  "homepage": "https://github.com/woloszyna/ExperimentWebDriverJS#readme"
+}
